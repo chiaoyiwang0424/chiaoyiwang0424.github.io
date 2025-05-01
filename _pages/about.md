@@ -17,10 +17,12 @@ I received both my B.S. and M.S. degrees from National Taiwan University, where 
 Publications
 ======
 
-![Illustration of Vgg-Net](/images/MEMO_paper_main.jpg){: .align-left width="400px"}
+
 [MEMO: dataset and methods for robust multimodal retinal image registration with large or small vessel density differences](https://doi.org/10.1364/BOE.516481)
 **Chiao-Yi Wang**, Faranguisse Kakhi Sadrieh, Yi-Ting Shen, Shih-En Chen, Sarah Kim, Victoria Chen, Achyut Raghavendra, Dongyi Wang, Osamah Saeedi, and Yang Tao
 *Biomed. Opt. Express 2024*
+![Illustration of Vgg-Net](/images/MEMO_paper_main.jpg)
+
 
 
 
