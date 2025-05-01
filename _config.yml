@@ -22,7 +22,7 @@ repository               : "chiaoyiwang0424/chiaoyiwang0424.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_0314_720_square.png"
+  avatar           : "img_0314_720_square.png"
   name             : "Chiao-Yi Wang"
   pronouns         : # example: "she/her"  
   bio              : "Medical Imaging / Computer Vision / Machine Learning / Biomedical Signal Processing"
