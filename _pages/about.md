@@ -19,6 +19,13 @@ Publications
 
 ![Illustration of Vgg-Net](/images/MEMO_paper_main.jpg){: .align-left width="400px"}
 [MEMO: dataset and methods for robust multimodal retinal image registration with large or small vessel density differences](https://doi.org/10.1364/BOE.516481)
+**Chiao-Yi Wang**, Faranguisse Kakhi Sadrieh, Yi-Ting Shen, Shih-En Chen, Sarah Kim, Victoria Chen, Achyut Raghavendra, Dongyi Wang, Osamah Saeedi, and Yang Tao
+*Biomed. Opt. Express 2024*
+
+
+
+
+
 
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
