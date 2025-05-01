@@ -9,10 +9,12 @@
 
 main:
   - title: "CV"
-    url: /cv/
-    
+    #url: /cv/
+    url: /files/CV_ChiaoYiWang_20250411.pdf
+
   - title: "Publications"
-    url: /publications/
+    #url: /publications/
+    url: https://scholar.google.com/citations?user=wzRfkxkAAAAJ&hl=en
 
   #- title: "Talks"
   #  url: /talks/    
