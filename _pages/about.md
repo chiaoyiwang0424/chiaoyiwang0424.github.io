@@ -18,18 +18,53 @@ My research intersts lie in applying deep learning to biomedical applications, w
 Publications
 ======
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/memo_fig.jpg" alt="Memo" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      MEMO: dataset and methods for robust multimodal retinal image registration with large or small vessel density differences
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      <strong>Chiao-Yi Wang</strong>, Faranguisse Kakhi Sadrieh, Yi-Ting Shen, Shih-En Chen, Sarah Kim, Victoria Chen, Achyut Raghavendra, Dongyi Wang, Osamah Saeedi, and Yang Tao
+      <br>
+      Biomedical Optics Express 2024
+      <br>
+      <a href="https://doi.org/10.1364/BOE.516481">[paper]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We propose VDD-Reg, a segmentation-based deep-learning framework for multimodal retinal image registration that can robustly register two imaging modalities despite vessel density differences.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/memo_fig.jpg" alt="Memo Enlarged" class="enlarged-image">
+  </div>
+</div>
 
-[MEMO: dataset and methods for robust multimodal retinal image registration with large or small vessel density differences](https://doi.org/10.1364/BOE.516481)
+<style>
+/* Add this CSS to your page or a linked stylesheet */
+.original-image {
+  z-index: 1;
+}
 
-**Chiao-Yi Wang**, Faranguisse Kakhi Sadrieh, Yi-Ting Shen, Shih-En Chen, Sarah Kim, Victoria Chen, Achyut Raghavendra, Dongyi Wang, Osamah Saeedi, and Yang Tao
+.enlarged-image-container {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0; /* Adjust to position beside the original image */
+  z-index: 10; /* Ensure it appears above other elements */
+}
 
-*Biomed. Opt. Express 2024*
-![Illustration of Vgg-Net](/images/MEMO_paper_main.jpg)
+.enlarged-image {
+  width: 600px; /* Adjust size for enlargement */
+  height: auto;
+  border: 2px solid #ccc; /* Optional: Add a border for better visibility */
+  background: white; /* Optional: Add a background to avoid overlap issues */
+}
 
-
-
-
-
+.original-image:hover ~ .enlarged-image-container {
+  display: block;
+}
+</style>
 
 
 
