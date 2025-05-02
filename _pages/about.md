@@ -106,6 +106,28 @@ Publications
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/tcell.jpg" alt="tcell" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      Evaluation of cytotoxic T lymphocyte-mediated anticancer response against tumor interstitium-simulating physical barriers
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      Shu-Ching Chen, Po-Cheng Wu, <strong>Chiao-Yi Wang</strong>, Po-Ling Kuo
+      <br>
+      <em>Scientific Reports 2020</em>
+      <br>
+      <a href="https://www.nature.com/articles/s41598-020-70694-8">[paper]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      Using a microfluidic platform that mimics tumor physical barriers, we show that while antigen-specific CTLs retain cytotoxic efficacy, increased interstitial fluid pressure hinders their infiltration, underscoring the need to consider tumor microenvironments in immunotherapy design.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/tcell.jpg" alt="tcell Enlarged" class="enlarged-image">
+  </div>
+</div>
+
 
 <style>
 /* Add this CSS to your page or a linked stylesheet */
