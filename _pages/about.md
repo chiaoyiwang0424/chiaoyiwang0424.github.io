@@ -15,6 +15,30 @@ Research
 My research intersts lie in applying deep learning to biomedical applications, with a particular focus on multi-modal image registration and medical signal processing.
 
 
+Preprints
+======
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      AutoComPose: Automatic Generation of Pose Transition Descriptions for Composed Pose Retrieval Using Multimodal LLMs
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      Yi-Ting Shen*, Sungmin Eum*, Doheon Lee, Rohit Shete, <strong>Chiao-Yi Wang</strong>, Heesung Kwon, and Shuvra S. Bhattacharyya (* equal contribution)
+      <br>
+      <a href="https://arxiv.org/abs/2503.22884">[arXiv]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We introduce AutoComPose, the first framework to automatically generate pose transition annotations using multimodal large language models, significantly improving composed pose retrieval performance while reducing reliance on costly human labeling.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/autocompose.jpg" alt="AutoComPose Enlarged" class="enlarged-image">
+  </div>
+</div>
+
+
 Publications
 ======
 
@@ -29,7 +53,7 @@ Publications
       <br>
       <em>Biomedical Optics Express 2024</em>
       <br>
-      <a href="https://doi.org/10.1364/BOE.516481">[paper]</a><a href="https://chiaoyiwang0424.github.io/MEMO/">[dataset]</a>
+      <a href="https://doi.org/10.1364/BOE.516481">[Paper]</a><a href="https://chiaoyiwang0424.github.io/MEMO/">[Dataset]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We propose VDD-Reg, a segmentation-based deep-learning framework for multimodal retinal image registration that can robustly register two imaging modalities despite vessel density differences.
@@ -51,7 +75,7 @@ Publications
       <br>
       <em>ICASSP 2024</em>
       <br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10447770">[paper]</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10447770">[Paper]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We propose EgoFall, a real-time, privacy-preserving fall risk assessment system using a chest-mounted tracking camera and a lightweight CNN-Transformer model, enabling personalized fall prevention without the need for multiple wearable sensors.
@@ -73,7 +97,7 @@ Publications
       <br>
       <em>IEEE Access 2024</em>
       <br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10766580">[paper]</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10766580">[Paper]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We introduce ShellCollect, the first smart precision shellfish harvesting framework that plans efficient dredging paths based on underwater oyster distributions using a novel VNS-based algorithm.
@@ -95,7 +119,7 @@ Publications
       <br>
       <em>IEEE EMBC 2021</em>
       <br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/9630670">[paper]</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/9630670">[Paper]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We demonstrate a non-invasive method for predicting aqueous glucose concentration using near-infrared hyperspectral imaging (HSI) combined with Partial Least Squares Regression (PLSR), achieving accurate results across a wide concentration range.
@@ -117,7 +141,7 @@ Publications
       <br>
       <em>Scientific Reports 2020</em>
       <br>
-      <a href="https://www.nature.com/articles/s41598-020-70694-8">[paper]</a>
+      <a href="https://www.nature.com/articles/s41598-020-70694-8">[Paper]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       Using a microfluidic platform that mimics tumor physical barriers, we show that while antigen-specific CTLs retain cytotoxic efficacy, increased interstitial fluid pressure hinders their infiltration, underscoring the need to consider tumor microenvironments in immunotherapy design.
@@ -139,7 +163,7 @@ Publications
       <br>
       <em>Biomedical Optics Express 2020</em>
       <br>
-      <a href="https://doi.org/10.1364/BOE.391451">[paper]</a>
+      <a href="https://doi.org/10.1364/BOE.391451">[Paper]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We present a label-free third-harmonic-generation (THG) enhancement-ratio microscopy technique that enables in vivo 3D imaging of melanin distribution in human skin with microscopic detail and absolute mass density, offering a powerful tool for noninvasive diagnosis and long-term treatment assessment of melanin-related disorders.
@@ -161,7 +185,7 @@ Publications
       <br>
       <em>Photonics MDPI 2019</em>
       <br>
-      <a href="https://www.mdpi.com/2304-6732/6/2/61">[paper]</a>
+      <a href="https://www.mdpi.com/2304-6732/6/2/61">[Paper]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We propose a fast and accurate inverse fitting method using neural networks to quantify key skin optical properties and chromophore concentrations without requiring prior knowledge of epidermis thickness, enabling practical and cost-effective in vivo skin analysis.
@@ -183,7 +207,7 @@ Publications
       <br>
       <em>Biomedical Optics Express 2018</em>
       <br>
-      <a href="https://doi.org/10.1364/BOE.9.001531">[paper]</a>
+      <a href="https://doi.org/10.1364/BOE.9.001531">[Paper]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We propose a neural network-based modeling method to efficiently and accurately extract chromophore concentrations and oxygen saturation from spatially-resolved diffuse reflectance spectra of multilayered skin, outperforming GPU-accelerated Monte Carlo simulations in both speed and fitting accuracy.
@@ -205,7 +229,7 @@ Publications
       <br>
       <em>Frontiers in Optics / Laser Science 2018</em>
       <br>
-      <a href="https://doi.org/10.1364/FIO.2018.JW3A.121">[paper]</a>
+      <a href="https://doi.org/10.1364/FIO.2018.JW3A.121">[Paper]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We present an improved inverse Monte Carlo fitting method for reliably extracting optical coefficients of the epidermis and shallow dermis from in-vivo skin reflectance spectra, achieving fitting errors below 13%.
@@ -227,7 +251,7 @@ Publications
       <br>
       <em>SPIE 2018</em>
       <br>
-      <a href="https://doi.org/10.1117/12.2289637">[paper]</a>
+      <a href="https://doi.org/10.1117/12.2289637">[Paper]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We developed a cost-effective, hand-held system using Monte Carlo simulations and diffuse reflectance spectroscopy to detect in vivo changes in dermal collagen concentration, accounting for the influence of underlying fat and muscle layers to improve measurement accuracy.
@@ -249,7 +273,7 @@ Publications
       <br>
       <em>SPIE 2018</em>
       <br>
-      <a href="https://doi.org/10.1117/12.2288876">[paper]</a>
+      <a href="https://doi.org/10.1117/12.2288876">[Paper]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We used in-vivo diffuse reflectance spectroscopy with an inverse Monte Carlo model to estimate wavelength-dependent absorption and scattering coefficients of human muscles, offering more accurate optical property measurements than traditional ex-vivo methods.
