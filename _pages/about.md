@@ -295,7 +295,7 @@ Publications
   display: none;
   position: absolute;
   top: 0;
-  left: 0; /* Adjust to position beside the original image */
+  left:170px; /* Adjust to position beside the original image */
   z-index: 10; /* Ensure it appears above other elements */
 }
 
