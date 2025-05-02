@@ -1,17 +1,18 @@
 ---
 permalink: /
-title: "Hello there, I'm Chiao-Yi!"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a final year Ph.D. student in Bioengineering at University of Maryland College Park, adviesd by Prof. [Yang Tao](https://bioe.umd.edu/clark/faculty/222/Yang-Tao).
+I am a Ph.D. candidate in Bioengineering at [University of Maryland College Park](https://bioe.umd.edu/), adviesd by Prof. [Yang Tao](https://bioe.umd.edu/clark/faculty/222/Yang-Tao) in the [Bio-imaging and Machine Vision Lab](https://taolab.umd.edu/). I received my M.S. degrees from the [Graduate Institue of Biomedical Electronics and Bioinformatics](https://www.bebi.ntu.edu.tw/?page_id=79&lang=en) at National Taiwan University, where I was advised by Prof. [Kung-Bin Sung](https://www.ee.ntu.edu.tw/bio1.php?teacher_id=945010) in [Biomedical Optical Spectroscopy and Imaging lab](https://homepage.ntu.edu.tw/~kbsung/). I earned my B.S. degree in Electrical Engineering from [National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php).
 
+
+Research
+======
 My research intersts lie in applying deep learning to biomedical applications, with a particular focus on multi-modal image registration and medical signal processing.
-
-I received both my B.S. and M.S. degrees from National Taiwan University, where I was fortunate to be advised by Prof. [Kung-Bin Sung](https://www.ee.ntu.edu.tw/bio1.php?teacher_id=945010).
 
 
 Publications
