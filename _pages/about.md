@@ -27,9 +27,9 @@ Publications
     <p style="margin: 5px 0; font-size: 0.8em;">
       <strong>Chiao-Yi Wang</strong>, Faranguisse Kakhi Sadrieh, Yi-Ting Shen, Shih-En Chen, Sarah Kim, Victoria Chen, Achyut Raghavendra, Dongyi Wang, Osamah Saeedi, and Yang Tao
       <br>
-      Biomedical Optics Express 2024
+      <em>Biomedical Optics Express 2024</em>
       <br>
-      <a href="https://doi.org/10.1364/BOE.516481">[paper]</a>
+      <a href="https://doi.org/10.1364/BOE.516481">[paper]</a><a href="https://chiaoyiwang0424.github.io/MEMO/">[dataset]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We propose VDD-Reg, a segmentation-based deep-learning framework for multimodal retinal image registration that can robustly register two imaging modalities despite vessel density differences.
@@ -49,7 +49,7 @@ Publications
     <p style="margin: 5px 0; font-size: 0.8em;">
       <strong>Chiao-Yi Wang</strong>, Faranguisse Kakhi Sadrieh, Yi-Ting Shen, Giovanni Oppizzi, Li-Qun Zhang, Yang Tao
       <br>
-      ICASSP 2024
+      <em>ICASSP 2024</em>
       <br>
       <a href="https://ieeexplore.ieee.org/abstract/document/10447770">[paper]</a>
     </p>
@@ -71,7 +71,7 @@ Publications
     <p style="margin: 5px 0; font-size: 0.8em;">
       <strong>Chiao-Yi Wang</strong>, ADP Guru Nandhan, Yi-Ting Shen, Wei-Yu Chen, Sandip Sharan Senthil Kumar, Alexander Long, Alan Williams, Gudjon Magnusson, Allen Pattillo, Don Webster, Matthew Gray, Miao Yu, Yang Tao
       <br>
-      IEEE Access 2024
+      <em>IEEE Access 2024</em>
       <br>
       <a href="https://ieeexplore.ieee.org/abstract/document/10766580">[paper]</a>
     </p>
