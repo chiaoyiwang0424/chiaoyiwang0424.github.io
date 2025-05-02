@@ -194,6 +194,71 @@ Publications
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/OSA2018.jpg" alt="OSA2018" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      Improved Inverse Two- Layered Monte Carlo Fitting of In-vivo Skin Diffuse Reflectance Spectra
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      <strong>Chiao-Yi Wang</strong>, Ting-Xuan Lin, Kung-Bin Sung
+      <br>
+      <em>Frontiers in Optics / Laser Science 2018</em>
+      <br>
+      <a href="https://doi.org/10.1364/FIO.2018.JW3A.121">[paper]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We present an improved inverse Monte Carlo fitting method for reliably extracting optical coefficients of the epidermis and shallow dermis from in-vivo skin reflectance spectra, achieving fitting errors below 13%.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/OSA2018.jpg" alt="OSA2018 Enlarged" class="enlarged-image">
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/SPIE2018_skin_final.jpg" alt="SPIE2018skin" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      Developing visible and near-infrared reflectance spectroscopy to detect changes of the dermal collagen concentration
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      <strong>Chiao-Yi Wang</strong>, Andy Ying Chi Liao, Kung Bin Sung
+      <br>
+      <em>SPIE 2018</em>
+      <br>
+      <a href="https://doi.org/10.1117/12.2289637">[paper]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We developed a cost-effective, hand-held system using Monte Carlo simulations and diffuse reflectance spectroscopy to detect in vivo changes in dermal collagen concentration, accounting for the influence of underlying fat and muscle layers to improve measurement accuracy.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/SPIE2018_skin_final.jpg" alt="SPIE2018skin Enlarged" class="enlarged-image">
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/SPIE2018_muscle_final.jpg" alt="SPIE2018muscle" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      In vivo measurements of optical properties of human muscles with visible and near infrared reflectance spectroscopy
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      <strong>Chiao-Yi Wang</strong>, Ting Wen Yu, Kung Bin Sung
+      <br>
+      <em>SPIE 2018</em>
+      <br>
+      <a href="https://doi.org/10.1117/12.2288876">[paper]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We used in-vivo diffuse reflectance spectroscopy with an inverse Monte Carlo model to estimate wavelength-dependent absorption and scattering coefficients of human muscles, offering more accurate optical property measurements than traditional ex-vivo methods.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/SPIE2018_muscle_final.jpg" alt="SPIE2018muscle Enlarged" class="enlarged-image">
+  </div>
+</div>
 
 
 <style>
