@@ -84,6 +84,29 @@ Publications
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/EMBCfig.png" alt="EMBC" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      Prediction of Aqueous Glucose Concentration Using Hyperspectral Imaging
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      <strong>Chiao-Yi Wang</strong>, Anjana Hevaganinge, Dongyi Wang, Mohamed Ali, Maurizio Cattaneo, Yang Tao
+      <br>
+      <em>IEEE EMBC 2021</em>
+      <br>
+      <a href="https://ieeexplore.ieee.org/abstract/document/9630670">[paper]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We demonstrate a non-invasive method for predicting aqueous glucose concentration using near-infrared hyperspectral imaging (HSI) combined with Partial Least Squares Regression (PLSR), achieving accurate results across a wide concentration range.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/EMBCfig.png" alt="EMBC Enlarged" class="enlarged-image">
+  </div>
+</div>
+
+
 <style>
 /* Add this CSS to your page or a linked stylesheet */
 .original-image {
