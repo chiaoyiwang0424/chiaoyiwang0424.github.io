@@ -40,6 +40,50 @@ Publications
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/icassp_fig.jpg" alt="Memo" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      Real-Time Privacy-Preserving Fall Risk Assessment with a Single Body-Worn Tracking Camera
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      <strong>Chiao-Yi Wang</strong>, Faranguisse Kakhi Sadrieh, Yi-Ting Shen, Giovanni Oppizzi, Li-Qun Zhang, Yang Tao
+      <br>
+      ICASSP 2024
+      <br>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10447770">[paper]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We propose EgoFall, a real-time, privacy-preserving fall risk assessment system using a chest-mounted tracking camera and a lightweight CNN-Transformer model, enabling personalized fall prevention without the need for multiple wearable sensors.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/icassp_fig.jpg" alt="Memo Enlarged" class="enlarged-image">
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/shellcollect.jpg" alt="Memo" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      ShellCollect: A Framework for Smart Precision Shellfish Harvesting Using Data Collection Path Planning
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      <strong>Chiao-Yi Wang</strong>, ADP Guru Nandhan, Yi-Ting Shen, Wei-Yu Chen, Sandip Sharan Senthil Kumar, Alexander Long, Alan Williams, Gudjon Magnusson, Allen Pattillo, Don Webster, Matthew Gray, Miao Yu, Yang Tao
+      <br>
+      IEEE Access 2024
+      <br>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10766580">[paper]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We introduce ShellCollect, the first smart precision shellfish harvesting framework that plans efficient dredging paths based on underwater oyster distributions using a novel VNS-based algorithm.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/shellcollect.jpg" alt="Memo Enlarged" class="enlarged-image">
+  </div>
+</div>
+
 <style>
 /* Add this CSS to your page or a linked stylesheet */
 .original-image {
