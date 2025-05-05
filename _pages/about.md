@@ -12,8 +12,14 @@ I am a Ph.D. candidate in Bioengineering at [University of Maryland College Park
 
 Research
 ======
-My research intersts lie in applying deep learning to biomedical applications, with a particular focus on multi-modal image registration and medical signal processing.
+My research interests focus on applying machine learning to biomedical and bioengineering domains. My goal is to enhance the efficiency of these applications—such as medical diagnosis, therapies, and other bioengineering uses—and to increase their accessibility and prevalence. To achieve this vision, I have worked on a broad range of applications, as outlined below:
+<div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
+<strong>&bull; Ophthalmology:</strong> MEMO [BOE'24]<br>
+<strong>&bull; Rehabilitation:</strong> EgoFall [ICASSP'24]<br>
+<strong>&bull; Dermatology/Cosmetic:</strong> [BOE'20], [Photonics'19] [BOE'18] [Frontiers in Optics / Laser Science'18], [SPIE'18]<br>
+<strong>&bull; Bioengineering and Other Areas:</strong> ShellCollect [IEEE Access'24], [EMBC'21], [Scientific Report'20]<br>
 
+</div>
 
 Preprints
 ======
