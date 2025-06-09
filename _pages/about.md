@@ -49,6 +49,28 @@ Publications
 ======
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/TNSREfig.jpg" alt="Memo" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      EgoFall: Real-time Privacy-Preserving Fall Risk Assessment with a Single On-Body Tracking Camera
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      <strong>Chiao-Yi Wang</strong>, Faranguisse Kakhi Sadrieh, Yi-Ting Shen, Giovanni Oppizzi, Li-Qun Zhang, Yang Tao
+      <br>
+      <em>IEEE TNSRE 2025</em>
+      <br>
+      <a href="https://ieeexplore.ieee.org/document/11027155">[Paper]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      This paper presents EgoFall, a real-time, privacy-preserving fall risk assessment system using a chest-mounted tracking camera and a lightweight CNN-Transformer model to identify direction-specific instability walking patterns.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/TNSREfig.jpg" alt="Memo Enlarged" class="enlarged-image">
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
   <img src="/images/memo_fig.jpg" alt="Memo" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
