@@ -21,7 +21,10 @@ My research interests focus on applying machine learning to biomedical and bioen
 
 </div>
 
-Preprints
+
+
+
+Publications
 ======
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
@@ -32,6 +35,8 @@ Preprints
     </h3>
     <p style="margin: 5px 0; font-size: 0.8em;">
       Yi-Ting Shen*, Sungmin Eum*, Doheon Lee, Rohit Shete, <strong>Chiao-Yi Wang</strong>, Heesung Kwon, and Shuvra S. Bhattacharyya (* equal contribution)
+      <br>
+      <em>ICCV 2025</em>
       <br>
       <a href="https://arxiv.org/abs/2503.22884">[arXiv]</a>
     </p>
@@ -44,9 +49,6 @@ Preprints
   </div>
 </div>
 
-
-Publications
-======
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
   <img src="/images/TNSREfig.jpg" alt="Memo" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
