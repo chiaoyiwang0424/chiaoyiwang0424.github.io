@@ -17,7 +17,7 @@ My research interests focus on applying machine learning to biomedical and bioen
 <strong>&bull; Ophthalmology:</strong> MEMO [BOE'24]<br>
 <strong>&bull; Rehabilitation:</strong> EgoFall [ICASSP'24]<br>
 <strong>&bull; Dermatology/Cosmetic:</strong> [BOE'20], [Photonics'19] [BOE'18] [Frontiers in Optics / Laser Science'18], [SPIE'18]<br>
-<strong>&bull; Bioengineering and Other Areas:</strong> ShellCollect [IEEE Access'24], [EMBC'21], [Scientific Report'20]<br>
+<strong>&bull; Bioengineering and Other Areas:</strong> ShellCollect [IEEE Access'24], Hyperspectral Imaging[EMBC'21], Mechanobiology[Scientific Report'20]<br>
 
 </div>
 
