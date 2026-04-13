@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<b>🔍 I am actively seeking full-time research or industry positions starting in Summer 2026.</b>
 
 I am a Ph.D. candidate in Bioengineering at [University of Maryland College Park](https://bioe.umd.edu/), adviesd by Prof. [Yang Tao](https://bioe.umd.edu/clark/faculty/222/Yang-Tao) in the [Bio-imaging and Machine Vision Lab](https://taolab.umd.edu/). I received my M.S. degrees from the [Graduate Institue of Biomedical Electronics and Bioinformatics](https://www.bebi.ntu.edu.tw/?page_id=79&lang=en) at National Taiwan University, where I was advised by Prof. [Kung-Bin Sung](https://www.ee.ntu.edu.tw/bio1.php?teacher_id=945010) in [Biomedical Optical Spectroscopy and Imaging lab](https://homepage.ntu.edu.tw/~kbsung/). I earned my B.S. degree in Electrical Engineering from [National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php).
 
