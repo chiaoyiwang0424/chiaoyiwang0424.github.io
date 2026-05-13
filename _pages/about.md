@@ -23,10 +23,11 @@ My research focuses on applying <strong>machine learning and computer vision to 
 -->
 
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
-<strong>&bull; Medical Image Analysis (Multimodal Image Registration, Vessel Segmentation):</strong> <a href="#memo">MEMO</a> [BOE'24]<br>
-<strong>&bull; Human Pose Estimation & Motion Analysis:</strong> EgoFall [ICASSP'24], AutoComPose [ICCV'25]<br>
-<strong>&bull; Optical & Hyperspectral Biosensing:</strong> Hyperspectral Imaging[EMBC'21], Microscopy[BOE'20], Diffuse Reflectance/Near-infrared Spectroscopy[Photonics'19] [BOE'18] [Frontiers in Optics / Laser Science'18] [SPIE'18]<br>
-<strong>&bull; Bioengineering & Other Applications:</strong> ShellCollect [IEEE Access'24], Mechanobiology[Scientific Report'20]<br>
+<strong>&bull; Multimodal AI & Human-Centered Sensing:</strong> <a href="#egofall">EgoFall</a> (ICASSP 2024; TNSRE 2025), <a href="#autocompose">AutoComPose</a> (ICCV 2025)<br>
+<strong>&bull; Biomedical Imaging & Computational Sensing:</strong> <a href="#memo">MEMO</a> (BOEx 2024), Hyperspectral Imaging(EMBC 2021), Microscopy(BOEx 2020), Diffuse Reflectance/Near-infrared Spectroscopy(Photonics 2019; BOEx 2018; Frontiers in Optics / Laser Science 2018; SPIE 2018)<br>
+<strong>&bull; Autonomous Systmes :</strong> ShellCollect (IEEE Access2024)<br>
+
+
 
 </div>
 
@@ -36,7 +37,7 @@ My research focuses on applying <strong>machine learning and computer vision to 
 Publications
 ======
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div id="autocompose" style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
   <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -59,7 +60,7 @@ Publications
 </div>
 
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div id="egofall" style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
   <img src="/images/TNSREfig.jpg" alt="Memo" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -68,9 +69,10 @@ Publications
     <p style="margin: 5px 0; font-size: 0.8em;">
       <strong>Chiao-Yi Wang</strong>, Faranguisse Kakhi Sadrieh, Yi-Ting Shen, Giovanni Oppizzi, Li-Qun Zhang, Yang Tao
       <br>
-      <em>IEEE TNSRE 2025</em>
+      <em>ICASSP 2024</em>
+      <em>IEEE Transactions on Neural Systems and Rehabilitation Engineering 2025</em>
       <br>
-      <a href="https://ieeexplore.ieee.org/document/11027155">[Paper]</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10447770">[Conference Paper]</a><a href="https://ieeexplore.ieee.org/document/11027155">[Journal Extension]</a><a href="https://github.com/chiaoyiwang0424/EgoFall-IEEETNSRE2025">[Code]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       This paper presents EgoFall, a real-time, privacy-preserving fall risk assessment system using a chest-mounted tracking camera and a lightweight CNN-Transformer model to identify direction-specific instability walking patterns.
