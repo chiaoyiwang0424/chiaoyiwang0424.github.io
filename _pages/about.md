@@ -24,8 +24,8 @@ My research focuses on applying <strong>machine learning and computer vision to 
 
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
 <strong>&bull; Multimodal AI & Human-Centered Sensing:</strong> <a href="#egofall">EgoFall</a> (ICASSP 2024; TNSRE 2025), <a href="#autocompose">AutoComPose</a> (ICCV 2025)<br>
-<strong>&bull; Biomedical Imaging & Computational Sensing:</strong> <a href="#memo">MEMO</a> (BOEx 2024), Hyperspectral Imaging(EMBC 2021), Microscopy(BOEx 2020), Diffuse Reflectance/Near-infrared Spectroscopy(Photonics 2019; BOEx 2018; Frontiers in Optics / Laser Science 2018; SPIE 2018)<br>
-<strong>&bull; Autonomous Systmes :</strong> ShellCollect (IEEE Access2024)<br>
+<strong>&bull; Biomedical Imaging & Computational Sensing:</strong> <a href="#memo">MEMO</a> (BOEx 2024), <a href="#hsi">Hyperspectral</a> Imaging (EMBC 2021), <a href="#microscopy">Microscopy</a> (BOEx 2020), <a href="#spectroscopy">Diffuse Reflectance/Near-infrared Spectroscopy</a> (Photonics 2019; BOEx 2018; Frontiers in Optics / Laser Science 2018; SPIE 2018)<br>
+<strong>&bull; Autonomous Systmes :</strong> <a href="#shell">ShellCollect</a> (IEEE Access2024)<br>
 
 
 
@@ -105,29 +105,7 @@ Publications
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
-  <img src="/images/icassp_fig.jpg" alt="Memo" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
-  <div>
-    <h3 style="margin: 0; font-size: 0.8em;">
-      Real-Time Privacy-Preserving Fall Risk Assessment with a Single Body-Worn Tracking Camera
-    </h3>
-    <p style="margin: 5px 0; font-size: 0.8em;">
-      <strong>Chiao-Yi Wang</strong>, Faranguisse Kakhi Sadrieh, Yi-Ting Shen, Giovanni Oppizzi, Li-Qun Zhang, Yang Tao
-      <br>
-      <em>ICASSP 2024</em>
-      <br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10447770">[Paper]</a>
-    </p>
-    <p style="margin: 0; font-size: 0.8em;">
-      We propose EgoFall, a real-time, privacy-preserving fall risk assessment system using a chest-mounted tracking camera and a lightweight CNN-Transformer model, enabling personalized fall prevention without the need for multiple wearable sensors.
-    </p>
-  </div>
-  <div class="enlarged-image-container">
-    <img src="/images/icassp_fig.jpg" alt="Memo Enlarged" class="enlarged-image">
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div id="shell" style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
   <img src="/images/shellcollect.jpg" alt="Memo" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -149,7 +127,7 @@ Publications
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div id="hsi" style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
   <img src="/images/EMBCfig.png" alt="EMBC" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -193,7 +171,7 @@ Publications
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div id="microscopy" style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
   <img src="/images/THG_BOE2020.jpg" alt="thg" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -215,7 +193,7 @@ Publications
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div id="spectroscopy" style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
   <img src="/images/photonics2019.png" alt="photonics2019" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
