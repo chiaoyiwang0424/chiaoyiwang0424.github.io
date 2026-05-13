@@ -8,11 +8,17 @@ redirect_from:
 ---
 <b>🔍 I am actively seeking full-time research or industry positions starting in Summer 2026.</b>
 
-I am a Ph.D. candidate in Bioengineering at [University of Maryland College Park](https://bioe.umd.edu/), adviesd by Prof. [Yang Tao](https://bioe.umd.edu/clark/faculty/222/Yang-Tao) in the [Bio-imaging and Machine Vision Lab](https://taolab.umd.edu/). I received my M.S. degrees from the [Graduate Institue of Biomedical Electronics and Bioinformatics](https://www.bebi.ntu.edu.tw/?page_id=79&lang=en) at National Taiwan University, where I was advised by Prof. [Kung-Bin Sung](https://www.ee.ntu.edu.tw/bio1.php?teacher_id=945010) in [Biomedical Optical Spectroscopy and Imaging lab](https://homepage.ntu.edu.tw/~kbsung/). I earned my B.S. degree in Electrical Engineering from [National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php).
+I am a Ph.D. in Bioengineering at [University of Maryland College Park](https://bioe.umd.edu/) (graduating in May 2026), where I worked with Prof. [Yang Tao](https://bioe.umd.edu/clark/faculty/222/Yang-Tao) in the [Bio-imaging and Machine Vision Lab](https://taolab.umd.edu/). I received my M.S. degrees from the [Graduate Institue of Biomedical Electronics and Bioinformatics](https://www.bebi.ntu.edu.tw/?page_id=79&lang=en) at National Taiwan University, where I was advised by Prof. [Kung-Bin Sung](https://www.ee.ntu.edu.tw/bio1.php?teacher_id=945010) in [Biomedical Optical Spectroscopy and Imaging lab](https://homepage.ntu.edu.tw/~kbsung/). I earned my B.S. degree in Electrical Engineering from [National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php).
 
 
-Research
+Research Overview
 ======
+My research focuses on <strong>multimodal AI</strong>, <strong>computer vision</strong>, <strong>machine learning</strong>, and <strong>human-centered sensing</strong>. I am particulrly interested in devloping machine learning frameworks that integrate imagining, video, wearable sensors, and multivariate time-series to better understand complex real-world, healthcare and biological systems. 
+
+My work spans biomedical imaging, egocentric sensing, multimodal data fusion, generative AI, and autonomous systems, with an emphasis on building robust benchmark datasets, simulation platforms, and deployable AI pipelines. My technical expertise includes image registration, segmentation, detection and tracking, pose estimation, multimodal representation learning, foundation models (e.g., DINO), generative modeling (e.g., GANs), LLM-based frameworks, and deep learning for 2D/3D imaging and temporal data.
+
+
+<!-->
 My research focuses on applying <strong>machine learning and computer vision to biomedical imaging and signal processing</strong>. My goal is to enhance the efficiency and accessibility of applications such as medical diagnosis, therapeutic monitoring, and bioengineering systems. To achieve this vision, I have worked across a diverse range of domains, as outlined below:
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
 <strong>&bull; Medical Image Analysis (Multimodal Image Registration, Vessel Segmentation):</strong> MEMO [BOE'24]<br>
@@ -21,7 +27,7 @@ My research focuses on applying <strong>machine learning and computer vision to 
 <strong>&bull; Bioengineering & Other Applications:</strong> ShellCollect [IEEE Access'24], Mechanobiology[Scientific Report'20]<br>
 
 </div>
-
+-->
 
 
 
