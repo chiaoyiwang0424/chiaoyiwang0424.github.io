@@ -20,6 +20,8 @@ My work spans biomedical imaging, egocentric sensing, multimodal data fusion, ge
 
 <!--
 My research focuses on applying <strong>machine learning and computer vision to biomedical imaging and signal processing</strong>. My goal is to enhance the efficiency and accessibility of applications such as medical diagnosis, therapeutic monitoring, and bioengineering systems. To achieve this vision, I have worked across a diverse range of domains, as outlined below:
+-->
+
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
 <strong>&bull; Medical Image Analysis (Multimodal Image Registration, Vessel Segmentation):</strong> MEMO [BOE'24]<br>
 <strong>&bull; Human Pose Estimation & Motion Analysis:</strong> EgoFall [ICASSP'24], AutoComPose [ICCV'25]<br>
@@ -27,7 +29,6 @@ My research focuses on applying <strong>machine learning and computer vision to 
 <strong>&bull; Bioengineering & Other Applications:</strong> ShellCollect [IEEE Access'24], Mechanobiology[Scientific Report'20]<br>
 
 </div>
--->
 
 
 
