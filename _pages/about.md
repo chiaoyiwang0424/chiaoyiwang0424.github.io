@@ -15,11 +15,12 @@ Research Overview
 ======
 My research focuses on <strong>multimodal AI</strong>, <strong>computer vision</strong>, <strong>machine learning</strong>, and <strong>human-centered sensing</strong>. I am particulrly interested in devloping machine learning frameworks that integrate imagining, video, wearable sensors, and multivariate time-series to better understand complex real-world, healthcare and biological systems. 
 
-My work spans biomedical imaging, egocentric sensing, multimodal data fusion, generative AI, and autonomous systems, with an emphasis on building robust benchmark datasets, simulation platforms, and deployable AI pipelines. My technical expertise includes image registration, segmentation, detection and tracking, pose estimation, multimodal representation learning, foundation models (e.g., DINO), generative modeling (e.g., GANs), LLM-based frameworks, and deep learning for 2D/3D imaging and temporal data.
+My work spans biomedical imaging, egocentric sensing, multimodal data fusion, generative AI, and autonomous systems, with an emphasis on building robust benchmark datasets, simulation platforms, and deployable AI pipelines. My technical expertise includes image registration, segmentation, detection and tracking, pose estimation, multimodal representation learning, foundation models (e.g., DINO), generative modeling (e.g., GANs), LLM-based frameworks, and deep learning for 2D/3D imaging and temporal data. Representative projects include:
 
 
 <!-->
 My research focuses on applying <strong>machine learning and computer vision to biomedical imaging and signal processing</strong>. My goal is to enhance the efficiency and accessibility of applications such as medical diagnosis, therapeutic monitoring, and bioengineering systems. To achieve this vision, I have worked across a diverse range of domains, as outlined below:
+-->
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
 <strong>&bull; Medical Image Analysis (Multimodal Image Registration, Vessel Segmentation):</strong> MEMO [BOE'24]<br>
 <strong>&bull; Human Pose Estimation & Motion Analysis:</strong> EgoFall [ICASSP'24], AutoComPose [ICCV'25]<br>
@@ -27,7 +28,7 @@ My research focuses on applying <strong>machine learning and computer vision to 
 <strong>&bull; Bioengineering & Other Applications:</strong> ShellCollect [IEEE Access'24], Mechanobiology[Scientific Report'20]<br>
 
 </div>
--->
+
 
 
 
