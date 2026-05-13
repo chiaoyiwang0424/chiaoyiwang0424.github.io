@@ -23,7 +23,7 @@ My research focuses on applying <strong>machine learning and computer vision to 
 -->
 
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
-<strong>&bull; Medical Image Analysis (Multimodal Image Registration, Vessel Segmentation):</strong> [MEMO](#memo) [BOE'24]<br>
+<strong>&bull; Medical Image Analysis (Multimodal Image Registration, Vessel Segmentation):</strong> <a href="#memo">MEMO</a> [BOE'24]<br>
 <strong>&bull; Human Pose Estimation & Motion Analysis:</strong> EgoFall [ICASSP'24], AutoComPose [ICCV'25]<br>
 <strong>&bull; Optical & Hyperspectral Biosensing:</strong> Hyperspectral Imaging[EMBC'21], Microscopy[BOE'20], Diffuse Reflectance/Near-infrared Spectroscopy[Photonics'19] [BOE'18] [Frontiers in Optics / Laser Science'18] [SPIE'18]<br>
 <strong>&bull; Bioengineering & Other Applications:</strong> ShellCollect [IEEE Access'24], Mechanobiology[Scientific Report'20]<br>
