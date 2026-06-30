@@ -24,7 +24,7 @@ My research focuses on applying <strong>machine learning and computer vision to 
 
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
 <strong>&bull; Multimodal AI & Human-Centered Sensing:</strong> <a href="#egofall">EgoFall</a> (ICASSP 2024; TNSRE 2025), <a href="#autocompose">AutoComPose</a> (ICCV 2025)<br>
-<strong>&bull; Biomedical Imaging & Computational Sensing:</strong> <a href="#memo">EMTrack</a> (submitted), <a href="#memo">MEMO</a> (BOEx 2024), <a href="#hsi">Hyperspectral Imaging</a> (EMBC 2021), <a href="#microscopy">Microscopy</a> (BOEx 2020), <a href="#spectroscopy">Diffuse Reflectance/Near-infrared Spectroscopy</a> (Photonics 2019; BOEx 2018; Frontiers in Optics / Laser Science 2018; SPIE 2018)<br>
+<strong>&bull; Biomedical Imaging & Computational Sensing:</strong> <a href="#emtrack">EMTrack</a> (submitted), <a href="#memo">MEMO</a> (BOEx 2024), <a href="#hsi">Hyperspectral Imaging</a> (EMBC 2021), <a href="#microscopy">Microscopy</a> (BOEx 2020), <a href="#spectroscopy">Diffuse Reflectance/Near-infrared Spectroscopy</a> (Photonics 2019; BOEx 2018; Frontiers in Optics / Laser Science 2018; SPIE 2018)<br>
 <strong>&bull; Autonomous Systmes :</strong> <a href="#shell">ShellCollect</a> (IEEE Access2024)<br>
 
 
