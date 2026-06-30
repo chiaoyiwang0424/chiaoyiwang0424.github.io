@@ -36,6 +36,24 @@ My research focuses on applying <strong>machine learning and computer vision to 
 
 Publications
 ======
+<div id="emtrack" style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/emtrack.png" alt="EMTrack" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      Automated Erythrocyte Detection and Tracking for Retinal Blood Flow Quantification in Erythrocyte-Mediated Angiography
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      <strong>Chiao-Yi Wang</strong>, Havish S Gadde, Yi-Ting Shen, Saige M. Oechsli, Osamah Saeedi, Yang Tao
+      <a href="https://arxiv.org/abs/2606.01006">[arXiv]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We introduce EMTrack, an automated framework for detecting and tracking individual erythrocytes in erythrocyte-mediated angiography videos to quantify capillary-level retinal blood flow. By combining temporal moving-cell detection with topology-aware tracking, EMTrack outperforms baseline methods on the new RBF-EMA dataset and shows promise for scalable retinal blood-flow measurement.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/emtrack.png" alt="EMTrack Enlarged" class="enlarged-image">
+  </div>
+</div>
 
 <div id="autocompose" style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
   <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
